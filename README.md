@@ -26,5 +26,15 @@ https://github.com/memo/eco-nft ‌
 
 3) Tarwin Stroh-Spijer. (2021, March 21). hic et nunc // advanced SVG NFTs . 
 https://tarwin.medium.com/hit-et-nunc-advanced-svg-nfts-a6040262f4d5 ‌
+
+4) TQ Tezos. (2021, March 31). Clean NFTs on Tezos - TQ Tezos. 
+https://medium.com/tqtezos/clean-nfts-on-tezos-58566b2fdba1
+
+5) TQ Tezos. (2021, March 16). Proof of Work vs. Proof of Stake: the Ecological Footprint.
+https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44
+
+‌
+
+‌
 ‌
 
